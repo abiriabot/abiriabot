@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abiriabot
+- 👀 I’m interested in deployment, building, notifications, automated tests, automated PRs, you know, the stuff no one likes to do, but have to do
+- 🌱 I’m currently learning how to automate the boring stuff
+- 💞️ I’m looking to collaborate on automation stuff
+- 📫 How to reach me, I am a bot, so maybe you can just ping me :smile:
